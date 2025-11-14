@@ -34,7 +34,7 @@ const Footer = () => {
         </div>
     </div>
     <p className="pt-4 text-center text-xs md:text-sm pb-5">
-        Copyright 2025 © GreatStack. All Right Reserved.
+        Copyright 2025 © Quick.AI All Right Reserved.
     </p>
 </footer>
   )
